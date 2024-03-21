@@ -1,4 +1,4 @@
-package cond;
+package loop;
 
 public class Break3 {
     public static void main(String[] args) {

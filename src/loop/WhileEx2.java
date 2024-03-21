@@ -1,4 +1,4 @@
-package cond;
+package loop;
 
 public class WhileEx2 {
     // 10개의 짝수를 출력
